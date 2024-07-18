@@ -6,10 +6,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "instagram",
+    "downloader",
+    "tiktok",
+    "bot",
+    "js",
+    "grammyjs",
+    "nodejs",
+    "youtubedownloader"
+  ],
+  "author": "bek shoyatbek",
   "license": "ISC",
-  "description": "",
+  "description": "the telegram bot built with nodejs and grammy aimed to help download social content easily :) ",
   "dependencies": {
     "async-retry": "^1.3.3",
     "axios": "^1.7.2",
